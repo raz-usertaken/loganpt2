@@ -8,7 +8,7 @@ public class URL : MonoBehaviour
     {
         //Copy your portfolio website URL and past here
 
-        Application.OpenURL("https://sites.google.com/bigcreative.education/ridgemensah/home");
+        Application.OpenURL("https://sites.google.com/bcestudent.com/raziel-thomas/home");
         Debug.Log("is this working");
     }
 }
